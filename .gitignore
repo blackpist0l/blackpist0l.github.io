@@ -16,6 +16,15 @@ package-lock.json
 
 # IDE configurations
 .idea
+.vscode
 
 # Misc
 assets/js/dist
+
+# hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
+!.markdownlint.yaml
