@@ -7,7 +7,7 @@ image:
   alt: Bienvenido
 ---
 
-Holaa, mi estimado lector 🏴, sea usted bienvenido a mi blog, que es tu blog, pero no lo es, pero puede serlo. Por fin me he decidido en crear este espacio de conocimiento. 
+Hola, mi estimado lector 🏴, sea usted bienvenido a mi blog, que es tu blog, pero no lo es, pero puede serlo. Por fin me he decidido en crear este espacio de conocimiento. 
 
 Durante el tiempo que llevo en el área de la ciberseguridad me he encontrado con múltiples blogs que sin duda me han proporcionado esas respuestas a mis dudas, pero, sin duda me quedo con aquellos blogs que redactan de manera peculiar y amena, ese tipo de blog simplemente me da curiosidad seguir leyendo y es algo que me gustaría transmitir. 
 
