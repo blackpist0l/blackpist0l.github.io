@@ -28,3 +28,6 @@ assets/js/dist
 !.nojekyll
 !.travis.yml
 !.markdownlint.yaml
+
+#other
+readme.md
