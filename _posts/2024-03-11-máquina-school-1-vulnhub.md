@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Máquina School 1 - VulnHub
+title: "SCHOOL: 1 Vulnhub Machine"
 date: 2024-03-11 15:25 -0600
 categories: CTF
 tags: Vulnhub Writeup Buffer-Overflow
