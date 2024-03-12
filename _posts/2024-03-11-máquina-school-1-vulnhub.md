@@ -603,8 +603,9 @@ Y vaya, funciona, ahora, solo falta ejecutarlo sobre la máquina.
 
 ![Nombre Descriptivo](/assets/img/posts/20240311121920.png)
 
-🏴.
+Fue un placer señor root, hasta luegoo!
 
+![](/assets/img/posts/2020240311213445.gif) 
 
 ---
 
