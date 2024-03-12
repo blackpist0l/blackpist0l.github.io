@@ -63,8 +63,8 @@ Después me topé que podía entrar a la carpeta `/root`. No podía hacer mucho 
 
 De manera velozmente rápida me dirigí a `/opt/access.exe` en el cual no podía manipular el archivo, aunque me di cuenta de que me había topado con el señor buffer overflow, así que después de ver estos materiales:
 
-- https://www.youtube.com/watch?v=sdZ8aE7yxMk&ab_channel=s4vitar
-- https://www.youtube.com/watch?v=1trC2QgmcZw&t=1703s&ab_channel=Spartan-Cybersecurity
+- [https://www.youtube.com/watch?v=sdZ8aE7yxMk&ab_channel=s4vitar](https://www.youtube.com/watch?v=sdZ8aE7yxMk&ab_channel=s4vitar)
+- [https://www.youtube.com/watch?v=1trC2QgmcZw&t=1703s&ab_channel=Spartan-Cybersecurity](https://www.youtube.com/watch?v=1trC2QgmcZw&t=1703s&ab_channel=Spartan-Cybersecurity)
 
 Lo hice, así que sea usted bienvenido, por si lo había olvidado.  
   
@@ -610,6 +610,6 @@ Y vaya, funciona, ahora, solo falta ejecutarlo sobre la máquina.
 
 *Referencias*
 
-- https://www.iihack.com/2020/12/04/vulnhub-613.html
-- https://www.youtube.com/watch?v=25RckCME6-A&pp=ygUOc2Nob29sIHZ1bG5odWI%3D
-- https://www.cnblogs.com/404p3rs0n/p/15395152.html
+- [https://www.iihack.com/2020/12/04/vulnhub-613.html](https://www.iihack.com/2020/12/04/vulnhub-613.html)
+- [https://www.youtube.com/watch?v=25RckCME6-A&pp=ygUOc2Nob29sIHZ1bG5odWI%3D](https://www.youtube.com/watch?v=25RckCME6-A&pp=ygUOc2Nob29sIHZ1bG5odWI%3D)
+- [https://www.cnblogs.com/404p3rs0n/p/15395152.html](https://www.cnblogs.com/404p3rs0n/p/15395152.html)
